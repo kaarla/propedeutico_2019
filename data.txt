@@ -1,0 +1,3 @@
+Las apariciones de Hola son: 15
+Las apariciones de javier son: 0
+Las apariciones de karla son: 1
